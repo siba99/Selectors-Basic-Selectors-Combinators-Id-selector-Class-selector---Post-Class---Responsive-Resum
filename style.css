@@ -96,12 +96,17 @@ background-color: white;
     padding: 0.5rem;
     letter-spacing: 1px;
 }
-    @media screen and (min-width:300px) and (max-width:630px){
-.main-content {
- display: list-item;
-  grid-template-columns:repeat(1 ,1fr);  
-}
-    }
+     @media screen and (max-width: 630px) {
+        .main-content{
+          grid-template-columns: repeat(1, 1fr);
+        }
+      }
+
+      @media screen and (max-width: 673px) {
+        .main-content {
+          grid-template-columns: repeat(1, 1fr);
+        }
+      }
     .description{
         font-size: 0.75rem;
         text-align: center;
