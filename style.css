@@ -44,11 +44,12 @@ padding: 0.8rem;
 color: white;
 
 }
-.designation{
-    font-size: 1rem;
-    text-align: center;
-    text-transform: uppercase;
-    padding-bottom: 1rem;
+ .designation {
+        font-size: 1rem;
+        text-align: center;
+        text-transform: uppercase;
+        padding-bottom: 0.5rem;
+        color: aliceblue;
 }
 .social-media{
 list-style: none;
@@ -60,23 +61,31 @@ padding:30px;
     padding: 20px;
     color: white;
 }
-.skills{
-    font-size: 0.75rem;
-    text-align: center;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-padding-left: 0.5rem;
-padding-right: 0.5rem;
-color: white;
-
-}
-.skills-name{
-    font-size: 0.65rem;
-    font-weight: 0.65rem;
-    text-align: left;
-    padding-bottom: 0.5rem;
-    color: white;
-}
+.skills {
+        font-size: 0.75rem;
+        text-align: center;
+        text-transform: uppercase;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        color: aliceblue;
+      }
+      .skill-name {
+        font-size: 0.65rem;
+        font-weight: 0.65rem;
+        text-align: left;
+        padding-bottom: 0.5rem;.skills {
+        font-size: 0.75rem;
+        text-align: center;
+        text-transform: uppercase;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        color: aliceblue;
+      }
+     
 .progress-bar{
     border:1px solid white;
     height: 4px;
