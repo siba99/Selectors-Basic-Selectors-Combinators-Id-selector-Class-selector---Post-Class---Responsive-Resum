@@ -5,7 +5,8 @@
     list-style: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-/* siba */
+
+/* Write CSS code below */
 .main-content {
         min-height: 1000px;
         width: 90%;
@@ -62,7 +63,7 @@
         padding-right: 0.5rem;
         color: aliceblue;
       }
-      .skills-name {
+      .skill-name {
         font-size: 0.65rem;
         font-weight: 0.65rem;
         text-align: left;
