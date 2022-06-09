@@ -52,6 +52,12 @@
       }
       .social-media {
         color: aliceblue;
+        display: flex;
+        justify-content: space-around;
+
+      }
+      .personal-details{
+        color: aliceblue;
       }
       .skills {
         font-size: 0.75rem;
@@ -72,6 +78,7 @@
       .progress-bar {
         border: 1px white solid;
         height: 4px;
+        background-color: aliceblue;
       }
 
       /* Right Part */
